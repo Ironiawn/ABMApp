@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me App</string>
+    <string name="name">Wellington Caires</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi!\n\n
+
+My name is Wellington.\n
+
+Everyone calls me \"Well\" so you can call me like that too :P\n\n
+
+I love coding in C# and doing some task automation using WinAutomation and Visual Studio!!
+</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
